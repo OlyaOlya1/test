@@ -1,5 +1,7 @@
 # Hello, world!
 
-I study in Netology
+Today
 
 12/02/24
+
+15/02/24 
